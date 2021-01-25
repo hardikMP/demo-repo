@@ -1,3 +1,7 @@
 # DEMO
 
-Some description...!
+Some description!
+
+## Subheader
+
+Git practices.
